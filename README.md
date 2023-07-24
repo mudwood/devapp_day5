@@ -17,4 +17,5 @@ automove.py ... 本体<br>
 ３．automove.py を実行<br>
 
 # そのた
-automove.py の最終、l.294かl.295のいずれかを実行するように選択する
+automove.py の最終、l.294かl.295のいずれかを実行するように選択する<br>
+commitしてあるコードはデバッグです…<br>
